@@ -22,3 +22,7 @@
 - https://phantomui.com/12/components
 - https://tailtemplate.com/
 - https://layoutsfortailwind.lalokalabs.dev/
+- https://merakiui.com/components/
+- https://tailblocks.cc/
+- https://freefrontend.com/tailwind-code-examples/
+- https://templates.digizu.co.uk/
