@@ -15,3 +15,10 @@
 - https://kutty.netlify.app/components/
 - https://xtendui.com/themes/navigation
 - https://kimia-ui.vercel.app/components/card
+- https://codepen.io/cruip/pens/popular?cursor=ZD0xJm89MCZwPTM=
+- https://codepen.io/search/pens?q=tailwind
+- https://www.gustui.com/docs
+- https://www.floatui.com/docs/getting-started/
+- https://phantomui.com/12/components
+- https://tailtemplate.com/
+- https://layoutsfortailwind.lalokalabs.dev/
