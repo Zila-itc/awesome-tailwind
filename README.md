@@ -1,5 +1,7 @@
 # awesome-tailwind
-
+- https://www.hyperui.dev/
+- https://tailus.io/blocks
+- https://flowbite.com/docs/getting-started/quickstart/
 - https://tailwind-elements.com/docs/standard/designblocks/landing-page/
 - https://tailwind-cards.netlify.app/
 - https://github.com/unlight/tailwind-components
@@ -7,3 +9,7 @@
 - https://flowrift.com/c/banner/eoAV4?view=preview
 - https://www.tailwind-kit.com/components#commerce
 - https://tailwindcomponents.com/
+- https://mambaui.com/components
+- https://www.tailwindtoolbox.com/
+- https://kitwind.io/products/kometa/components/navs
+- https://wickedblocks.dev/
