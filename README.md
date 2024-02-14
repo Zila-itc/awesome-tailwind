@@ -1,4 +1,5 @@
 # awesome-tailwind
+- https://tailwindflex.com/
 - https://www.hyperui.dev/
 - https://tailus.io/blocks
 - https://tailwind-elements.com/docs/standard/designblocks/landing-page/
